@@ -1,4 +1,3 @@
-```markdown
 # WordTracker.vim
 
 A minimal word count tracking plugin for writers. Set a daily word count goal, track your progress across sessions, and view your writing streak on a calendar.
@@ -187,4 +186,3 @@ MIT
 ## Contributing
 
 Issues and pull requests welcome.
-```
